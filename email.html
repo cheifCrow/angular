@@ -1,0 +1,17 @@
+<script 
+	src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.js">
+</script>
+<script src="emailParser.js"></script>
+<script src="emailApp.js"></script>
+
+<div ng-app="emailApp" ng-controller="EmailController">
+	<div id="emailEditor">
+		<input ng-model="to"
+			type="email"
+			placeholder="Recipient"/>
+		<textarea ng-model="emailBody"></textarea>
+	</div>
+	<div id="emailPreview">
+		<pre>__previewText__</pre>
+	</div>
+</div>
