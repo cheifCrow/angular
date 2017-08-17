@@ -1,0 +1,18 @@
+<html ng-app="myApp">
+	<head>
+		<script src="angular.js"></script>
+		<script src="directive.js"></script>
+	</head>
+
+	<body>
+		<label>Their URL field:</label>
+		<input type="text" ng-model="theirUrl">
+		<div my-directive
+			some-attr="theirUrl"
+			my-link-text="Click me">
+		</div>
+
+		<input type="text" ng-model="someProperty" placeholder="Type to enable">
+		<button ng-model="button" ng-disabled="!someProperty">A Button</button>
+	</body>
+</html>

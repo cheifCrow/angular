@@ -5,6 +5,9 @@
 		src="angular.js">
 	</script>
 	<script src="forms.js"></script>
+	<script type="text/javascript" 
+		src="node_modules/angular-messages/angular-messages.js">
+	</script>
 
 	<style>
 		.error {
@@ -38,19 +41,8 @@
 						ng-maxlength=20 required ng-focus>
 				</div>
 				<div class="error"
-					ng-show="signup_form.name.$dirty && signup_form.name.$invalid && !signup_form.name.$focused">
-					<small class="error"
-						ng-show="signup_form.name.$error.required">
-						Your name is required
-					</small>
-					<small class="error"
-						ng-show="signup_form.name.$error.minlength">
-						Your name must be at least 3 characters
-					</small>
-					<small class="error"
-						ng-show="signup_form.name.maxlength">
-						Your name cannot be more than 20 characters
-					</small>
+					ng-messages="signup_form.name.$error">
+					<div ng-messages-include="templates/errors.html"></div>
 				</div>
 			</div>
 
@@ -65,23 +57,23 @@
 						ng-maxlength=20
 						required/>
 					<div class="error"
-						ng-show="signup_form.email.$dirty && signup_form.email.$invalid && signup_form.submitted">
-						<small class="error"
-							ng-show="signup_form.email.$error.required">
+						ng-messages="signup_form.email.$error" ng-messages-multiple>
+						<div class="error"
+							ng-message="required">
 							Your email is required
-						</small> 
-						<small class="error"
-							ng-show="signup_form.email.$error.minlength">
+						</div> 
+						<div class="error"
+							ng-message="minlength">
 							Your email must be at least 3 characters
-						</small>
-						<small class="error"
-							ng-show="signup_form.email.$error.email">
+						</div>
+						<div class="error"
+							ng-message="email">
 							Please input a valid email
-						</small>
-						<small class="error"
-							ng-show="signup_form.email.$error.maxlength">
+						</div>
+						<div class="error"
+							ng-message="maxlength">
 							Your email cannot be longer than 20 characters
-						</small>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -97,23 +89,23 @@
 						ng-maxlength=20
 						ensure-unique="username" required/>
 					<div class="error"
-						ng-show="signup_form.username.$dirty && signup_form.username.$invalid && signup_form.submitted">
-						<small class="error"
-							ng-show="signup_form.username.$error.required">
+						ng-messages="signup_form.username.$error" ng-messages-multiple>
+						<div class="error"
+							ng-message="required">
 							Your username is required
-						</small> 
-						<small class="error"
-							ng-show="signup_form.username.$error.minlength">
+						</div> 
+						<div class="error"
+							ng-message="minlength">
 							Your username must be at least 3 characters
-						</small>
-						<small class="error"
-							ng-show="signup_form.username.$error.maxlength">
+						</div>
+						<div class="error"
+							ng-message="maxlength">
 							Your username cannot be longer than 20 characters
-						</small>
-						<small class="error"
-							ng-show="signup_form.username.$error.unique">
+						</div>
+						<div class="error"
+							ng-message="ensure-unique">
 							That username is taken, please try another
-						</small>
+						</div>
 					</div>
 				</div>
 			</div>

@@ -9,6 +9,7 @@
   "author": "Duncan Robertson",
   "license": "ISC",
   "dependencies": {
+    "angular-messages": "^1.5.5",
     "karma": "^1.7.0"
   }
 }

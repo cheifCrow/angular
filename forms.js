@@ -1,4 +1,4 @@
-var app = angular.module('forms', [])
+var app = angular.module('forms', ['ngMessages'])
 
 app.controller("signupController", function($scope) {
 	$scope.submitted = false;

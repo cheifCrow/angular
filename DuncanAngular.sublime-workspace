@@ -1,0 +1,1215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"signup",
+				"signup_form"
+			],
+			[
+				"panCer",
+				"panCertificate"
+			],
+			[
+				"shak",
+				"_shakeButton"
+			],
+			[
+				"men",
+				"menuExists"
+			],
+			[
+				"header",
+				"headerPlaceholder"
+			],
+			[
+				"horizon",
+				"horizontal-centered-row"
+			],
+			[
+				"form",
+				"form__section"
+			],
+			[
+				"stop",
+				"stopBlurLoader"
+			],
+			[
+				"time",
+				"timeoutTrackerArray"
+			],
+			[
+				"compon",
+				"componentTimeout"
+			],
+			[
+				"focusable",
+				"focusableArray"
+			],
+			[
+				"cur",
+				"curTransient"
+			],
+			[
+				"dash",
+				"dashProfileInitFiredOnce"
+			],
+			[
+				"clear",
+				"_clearErrors"
+			],
+			[
+				"clo",
+				"closeModal"
+			],
+			[
+				"subm",
+				"submitRegistered"
+			],
+			[
+				"sub",
+				"submitRegistered"
+			],
+			[
+				"sum",
+				"submitRegistered"
+			],
+			[
+				"click",
+				"clickRegistered"
+			],
+			[
+				"temp",
+				"tempPasswordFieldError"
+			],
+			[
+				"preven",
+				"preventDefault"
+			],
+			[
+				"buttonStyle",
+				"buttonStylesMobile"
+			],
+			[
+				"break",
+				"breakpoint"
+			],
+			[
+				"styleshee",
+				"stylesheet1"
+			],
+			[
+				"show",
+				"showRestrictedMsg"
+			],
+			[
+				"transien",
+				"transientReference"
+			],
+			[
+				"view",
+				"viewDetailsElement"
+			],
+			[
+				"trans",
+				"transientReference"
+			],
+			[
+				"work",
+				"workPhone"
+			],
+			[
+				"butto",
+				"buttonShakeTimer"
+			],
+			[
+				"opt",
+				"optInInvalid"
+			],
+			[
+				"transactions",
+				"transactions__accordion"
+			],
+			[
+				"speci",
+				"specialChars"
+			],
+			[
+				"currn",
+				"currentPasswordInvalid"
+			],
+			[
+				"curren",
+				"currentPasswordInvalid"
+			],
+			[
+				"button",
+				"buttonShakeTimeout"
+			],
+			[
+				"new",
+				"newPinError"
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"curso",
+				"cursorChanged"
+			],
+			[
+				"ne",
+				"newViewValue"
+			],
+			[
+				"non",
+				"nonNumericKeyPressed"
+			],
+			[
+				"comma",
+				"commaStart"
+			],
+			[
+				"deci",
+				"decimalPointPos"
+			],
+			[
+				"money",
+				"moneyFormatRegex"
+			],
+			[
+				"decim",
+				"decimalList"
+			],
+			[
+				"do",
+				"dollarIndex"
+			],
+			[
+				"check",
+				"checkJobTitleInvalid"
+			],
+			[
+				"selec",
+				"selectedJobType"
+			],
+			[
+				"margin",
+				"margin-left: "
+			],
+			[
+				"body",
+				"body-copy--large"
+			],
+			[
+				"vertical",
+				"verticalPosition"
+			],
+			[
+				"spinn",
+				"spinningBalls"
+			],
+			[
+				"remov",
+				"removeBlurDelay"
+			],
+			[
+				"second",
+				"secondaryType"
+			],
+			[
+				"remo",
+				"removeBlurDelay"
+			],
+			[
+				"sho",
+				"showLoadingOverlay"
+			],
+			[
+				"tabban",
+				"tabBanStrings"
+			],
+			[
+				"hid",
+				"hideElement"
+			],
+			[
+				"trav",
+				"travelModeCtrl"
+			],
+			[
+				"hide",
+				"hide-until-angular-init"
+			],
+			[
+				"anc",
+				"anchorTemplateBegin"
+			],
+			[
+				"para",
+				"paragraphType"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"pd3",
+				"pd3Flag"
+			],
+			[
+				"select",
+				"selectedYear"
+			],
+			[
+				"redi",
+				"redirectTo"
+			],
+			[
+				"chang",
+				"changeAnimation"
+			],
+			[
+				"prin",
+				"printTerms"
+			],
+			[
+				"dial",
+				"dialogNameFromBroadcast"
+			],
+			[
+				"ptp",
+				"ptpShouldModalsFire"
+			],
+			[
+				"card",
+				"cardTransient"
+			],
+			[
+				"Sessino",
+				"SessionStorageService"
+			],
+			[
+				"DIS",
+				"DISABLED_RMPD"
+			],
+			[
+				"_",
+				"_shouldItAutopop"
+			],
+			[
+				"modal",
+				"modalCounterFactory"
+			],
+			[
+				"dialog",
+				"dialogNamePD3"
+			],
+			[
+				"re",
+				"redirectLocation"
+			],
+			[
+				"redirec",
+				"redirectLoc"
+			],
+			[
+				"init",
+				"initValues"
+			],
+			[
+				"PTPBanner",
+				"PTPBannerCtrl"
+			],
+			[
+				"an",
+				"animateThisThing"
+			],
+			[
+				"auto",
+				"autoPopFinished"
+			],
+			[
+				"masked",
+				"maskedCardNbr"
+			],
+			[
+				"tran",
+				"transientArray"
+			],
+			[
+				"fetch",
+				"fetchCardPromises"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "forms.html",
+			"settings":
+			{
+				"buffer_size": 2770,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "directive.html",
+			"settings":
+			{
+				"buffer_size": 323,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "directive.js",
+			"settings":
+			{
+				"buffer_size": 222,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/errors.html",
+			"settings":
+			{
+				"buffer_size": 220,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "forms.js",
+			"settings":
+			{
+				"buffer_size": 757,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "emailApp.js",
+			"settings":
+			{
+				"buffer_size": 346,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 213.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 415.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jambe/DuncanDev/angular_book",
+		"/C/Users/jambe/DuncanDev/angular_book/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/jambe/DuncanDev/angular_book/emailParser.js",
+		"/C/Users/jambe/DuncanDev/angular_book/index.html",
+		"/C/Users/jambe/DuncanDev/angular_book/email.html",
+		"/C/Users/jambe/DuncanDev/angular_book/myApp.js",
+		"//ctfp5advsg/users/jambe/Desktop/enrol/originalStep1.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/services/comm-profile/commProfileService.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/services/email-blacklist/EmailBlacklistService.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/services/encryption/EncryptionService.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/services/bin-service/BinService.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/profile/tabs-content/employment-information/employment-information.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/profile/tabs-content/employment-information/js/controllers/EmploymentInfoController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/i18n/fr.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/i18n/en.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/enrollment/enroll-form/clientlibs/js/controllers/step1/RegistrationCreditCardController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/profile/tabs-content/employment-information/_cq_dialog/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/glb-image/_cq_editConfig.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/glb-image-button/glb-image-button.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/glb-image-button/_cq_dialog/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/login/lgn-forgot-username/clientlibs/js/controllers/ForgotUsernameController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/services/http/HttpService.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/services/retrieve-pan-cert/RetrievePanCertService.js",
+		"/C/Users/jambe/Downloads/angular.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/glb-image/glb-image.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/vendors/angularjs/js/vendor/angular.min.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/login/lgn-terms-and-conditions/clientlibs/js/controllers/MOATermsController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/es5/app.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/enrollment/enroll-form/enroll-form.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/login/lgn-form/clientlibs/js/services/LoginService.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/login/lgn-forgot-username/lgn-forgot-username.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/enrollment/enroll-form/clientlibs/js/controllers/step3/RegistrationSignupController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/login/lgn-terms-and-conditions/lgn-terms-and-conditions.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/enrollment/enroll-form/clientlibs/js/controllers/step2/RegistrationController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/enrollment/enroll-form/clientlibs/js/controllers/EnrolmentController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/directives/button-shake/ButtonShake.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/enrollment/enroll-form/clientlibs/js/services/SignupService.js",
+		"/C/Users/jambe/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/common/scss/base.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-header/clientlibs/js/directives/headerManager.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/clientlibs/js/directives/privateHeaderManager.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-navigation/clientlibs/js/directives/MainNav.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/clientlibs/js/directives/MainNav.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/ptp/ptp-red-alert-banner/scss/ptp-red-alert-banner.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/directives/dialog-tab-fixer/dialogTabFixer.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/directives/blur-loader/blurLoader.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/directives/angular-loaded-reveal/angularLoadedReveal.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/add-card/add-card-form/clientlibs/js/controllers/step2/ProfileRegistrationController.js",
+		"/C/code/Examples/callbackFactory.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/notifyme/notifyme/js/controllers/NotifymeController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/estatements/estatements-enrol-form/estatements-enrol-form.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-header-placeholder/glb-header-placeholder.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-header/glb-header.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/ptp/ptp-dialog-drop-in/ptp-dialog-drop-in.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/ptp/ptp-red-alert-banner/ptp-red-alert-banner.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-navigation/glb-navigation.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/glb-secure-header-top.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header/glb-secure-header.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-notifications/clientlibs/scss/glb-secure-notifications.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/ptp/ptp-red-alert-banner/js/controllers/PTPBannerController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/directives/reveal-site-body/revealSiteBody.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/directives/remove-hide/removeHide.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/directives/show-loader/showLoader.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/clientlibs/scss/glb-secure-header-top.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-navigation/clientlibs/scss/glb-navigation.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/global/js/directives/show-full-loader/showFullLoader.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-logo/clientlibs/scss/glb-logo.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/common/scss/mixins/_mixins.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-logo/clientlibs/js/directives/globalBgImage.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/accounts/account-details-shown/account-details-shown.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-logo/_cq_dialog/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-logo/glb-logo.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/ptp/ptp-red-alert-banner/_cq_dialog/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-notifications/glb-secure-notifications.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-hamburger-menu/clientlibs/scss/glb-hamburger-menu.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header/clientlibs/scss/glb-secure-header.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-header/clientlibs/scss/glb-header.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/ptp/ptp-red-alert-banner/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-logout/clientlibs/scss/glb-secure-logout.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/ptp/ptp-red-alert-banner/js/directives/showPtpBanner.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/ptp/ptp-red-alert-banner/js/directives/manageEllipsis.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/ptp/ptp-red-alert-banner/js/directives/manageArrows.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/ptp/ptp-red-alert-banner/js/directives/ellipseClick.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/ptp/ptp-red-alert-banner/js/directives/animatePtpBanner.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-sub-nav/glb-secure-sub-nav.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-card-dropdown/glb-card-dropdown.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/ptp/ptp-red-alert-banner/generated/css/ptp-red-alert-banner.css",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-nav-button/glb-secure-nav-button.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-logout/glb-secure-logout.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-notifications/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-logo/clientlibs/scss/glb-secure-logo.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-logo/glb-secure-logo.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/_cq_dialog/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header/_cq_dialog/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-navigation/_cq_dialog/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-logo/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/designs/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/designs/dash/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-header-placeholder/clientlibs/scss/glb-header-placeholder.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-sub-nav/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-offers/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-nav-button/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-logout/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-logo/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-card-dropdown/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-account-details/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/clientlibs/scss/glb-navigation.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/clientlibs/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/secure-header/glb-secure-header-top/dialog.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-language/glb-language.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-hamburger-menu/glb-hamburger-menu.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-account-old-public-site/glb-account.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-account/glb-account.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/login/login-warning-banner/js/directives/warningMessages.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-account/clientlibs/scss/glb-account.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-header/clientlibs/js/controllers/PublicHeaderController.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/enrollment/enroll-confirm-detail/clientlibs/scss/EnrolmentConfirmDetails.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/etc/clientlibs/dash/components/notifyme/notifyme/js/directives/NotifymeAccordionTabs.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-header/clientlibs/js/directives/HeaderManager.js",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-accounted/clientlibs/scss/glb-account.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-account/clientlibs/scss/glb-logo.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-account/_cq_dialog/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-account/clientlibs/.content.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/bill-pay/interac-payment/interac-payment.jsp",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-accounted/dialog.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-accounted/_cq_editConfig.xml",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-language/clientlibs/scss/glb-language.scss",
+		"/C/git/ctco-dash/frontend/dash-view/src/main/content/jcr_root/apps/dash/components/global/header/glb-accounted/glb-account.jsp"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\dash\\components\\notifyme",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\dash\\global\\js\\services",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\dash\\components\\profile",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\dash\\components",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content\\jcr_root\\etc",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content\\jcr_root\\apps\\dash\\components\\notifyme",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main\\content\\jcr_root\\apps\\dash\\components",
+			"<project>",
+			"C:\\git\\ctco-dash\\frontend\\dash-view\\src\\main",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"username",
+			"email",
+			"angular.js",
+			"angular.min.js",
+			"iv-user",
+			"HttpService",
+			"RETRIEVE_PROFILE",
+			"RETRIEVE_ACCOUNT",
+			"/dash/v1/account/retrieveAccount",
+			"carddropdown",
+			"card",
+			"homemaker",
+			"0023",
+			"EMPLOYMENTINFO0006",
+			"0023",
+			"DownloadTransactionsController",
+			"dtc.submit",
+			"alt-tag",
+			"EMPLOYMENTINFO0006",
+			"data-i18n-homemaker",
+			"data-i18n-sele",
+			"vm.i18n.homemaker",
+			"JobTypes",
+			"EMPLOYMENTINFO0011",
+			"EmploymentInfoController",
+			"Controller",
+			"EMPLOYMENTINFO0011",
+			"encrypt",
+			"encryptValue",
+			"encryping",
+			"EncryptionService",
+			"encryptValue",
+			"defer",
+			"BinService",
+			"_validationBinCard",
+			"getEmailList",
+			"http",
+			"$http",
+			"HttpService",
+			"_getCertAndRecover",
+			"encryptValue",
+			"HttpService",
+			"_recoverUsername",
+			"_getCertAndRecover",
+			"RETRIEVE_PAN",
+			"getCertNoHeaders",
+			"_getCertAndRecover",
+			"noProfileForCard",
+			"SignupService",
+			"goToNextStep",
+			"submit",
+			"_showRegistrationError",
+			"shakebu",
+			"buttonLoading",
+			"_shakeButton",
+			"buttonShake",
+			"isvalidcard",
+			"isvalidpin",
+			"isvali",
+			"buttonLoading",
+			"s",
+			"button-loader ",
+			"trademark",
+			"$scope",
+			"mainNav",
+			"$scope",
+			"4scope",
+			"navigationmenu",
+			"rootscope.$broadcast",
+			"rootscope.broad",
+			"rootscope",
+			"$on.",
+			"on.",
+			"bind",
+			"#",
+			"message-text",
+			".notifications",
+			"remove-hide",
+			"showLoader",
+			"continueNav",
+			"aTagHref",
+			"ctrl+shift+h triggered hiding loading overlay",
+			"bank",
+			"profileTabsDiv",
+			"navListTop",
+			"mainNav",
+			"main-nav",
+			"mainNav",
+			"logo",
+			"fmt:",
+			"log",
+			"logo",
+			"image-2x",
+			".ptp-warning-symbol",
+			"15px",
+			"hamburger-bar",
+			"SKIP-LINK001",
+			"skipLink",
+			"log-out",
+			"ptp-warning-symbol",
+			"ptp-alert-banner",
+			"ptp-red-alert-banner",
+			"bottom",
+			".ptp-red-alert-banner",
+			"showbanner",
+			"PTPBannerController",
+			"ptp-red-alert-banner",
+			"activity-bar__container--right",
+			"cardDropdown",
+			"activity-bar__container--right",
+			"dark-bg",
+			"subheaders",
+			".parsys:not(.responsivegrid)",
+			"y-centered-row",
+			"mobile",
+			".log-out",
+			"36px",
+			"summary",
+			".notifications",
+			"background-image: url(./images/icons-retina.png?1500313488520);",
+			"icons.png?1500313488520",
+			"hamburger",
+			"account",
+			"/content/",
+			"https://ctfs.com/content/ctfs/en/careers.html",
+			"content/",
+			"    background-color: #eee;",
+			"color: #a5a5a5"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"email",
+			"username",
+			"scope",
+			"ptp-red-alert-banner",
+			"ptp-alert-banner",
+			"hamburger--toggle",
+			"hamburger",
+			"MOATermsCtrl",
+			"showLoadingOverlay = 'off'",
+			"showLoadingOverlay = 'on'",
+			"showLoadingOverlay: 'on'",
+			"showLoadingOverlay: 'off'",
+			"showLoadingOverlay: 'on'",
+			"vm.showLoadingOverlay: 'on'",
+			"vm.showLoadingOverlay = 'on'",
+			"vm.showLoadingOverlay = 'off'",
+			"retrieveOffers",
+			"forgotUsernameCtrl",
+			"forgot-username",
+			"forgotUsernameCtrl",
+			"createBody",
+			"argsToPassOnClick",
+			"onBlurTempPassword",
+			"reset-password",
+			"resetPassCtrl",
+			"reset-password",
+			"forgotPassCtrl",
+			"body-copy--large",
+			"forgotPassCtrl",
+			"buttonShake ",
+			"error-message",
+			"Tablet:",
+			"Tablet,",
+			"tablet,",
+			"-tablet",
+			"_tablet",
+			"-768px",
+			"_768px}",
+			"var ",
+			"keydown",
+			"===",
+			"errors.loginInfo",
+			"loginInfo",
+			"incorrectCredentials",
+			"loginError",
+			"updateAllCardsDialogEmpInfo",
+			" updateAllCardsDialogEmpInfo",
+			"PROMISE_AMT",
+			"PROMISE_DATE",
+			"promiseDate",
+			"promiseAmt",
+			"firstCapsLastLowercase",
+			"empInfoCtrl.errors.workCityInvalid",
+			"vm.errors.workCityInvalid",
+			"empInfoCtrl.errors.employerNameInvalid",
+			"vm.errors.employerNameInvalid",
+			"empInfoCtrl.errors.phoneInvalid",
+			"vm.errors.phoneInvalid",
+			"empInfoCtrl.errors.jobTitleInvalid",
+			"vm.errors.jobTitleInvalid",
+			"empInfoCtrl.errors.provinceInvalid",
+			"vm.errors.provinceInvalid",
+			"empInfoCtrl.errors.jobTypeInvalid",
+			"vm.errors.jobTypeInvalid",
+			"startUpReady",
+			"deferStartup",
+			"deferListener",
+			"onKeyPressCheckOptIn",
+			"onClickCheckOptIn",
+			"ariaCheckBoxOffers",
+			"ariaCheckBoxOptIn",
+			"ariaCheckBoxOptInState",
+			"ariaCheckBoxAgreeState",
+			"onClickCheckOffers",
+			"onKeyPressCheckOffers",
+			"onClickCheckAgree",
+			"onKeyPressCheckAgree",
+			"_setViewValues",
+			"_checkRedirect",
+			"error-message",
+			"enter-your-cvc",
+			"error-message",
+			"submittable",
+			"flipStatusFlag",
+			"createAndPrependMessage",
+			"unable",
+			"lgnWarnBannerCtrl",
+			"moneySuffixCharCount",
+			"moneyDecimalPlusDigitsCharCount",
+			" attrs.moneyDecimalDigits",
+			"trimZerosAfterDecimal",
+			"oldViewValue",
+			"deleteFlag",
+			"filterCurrency",
+			"element",
+			"formatMoneyField",
+			"col-sm-6 profile__input--spacing",
+			"profile__input",
+			"profile__input profile-inf__input",
+			"profile-inf__input profile__input",
+			"profile-__input",
+			"profile-inf__input",
+			"error-message",
+			"",
+			"profile__input--width-adjust",
+			"profile__input expanded",
+			"expanded",
+			"",
+			"expanded",
+			"profile-inf__input--expanded",
+			"",
+			"employment",
+			"banTabbingToSpecificElements",
+			"allowTabbingToSpecificElements",
+			"specificTabBanElements",
+			"0.2s",
+			"6px",
+			"1s",
+			"1.5s",
+			"stopAutopopAndRedirect",
+			"_setAutopopCloseModalActions",
+			"ptpInitializedAlready",
+			"hubEverVisited",
+			"ptpInitializedBefore",
+			"ShouldModalsPop",
+			"shouldModalsPop",
+			"_fetchAccountDataAndPush",
+			"elementToHide"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "forms.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								944,
+								883
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 775.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "directive.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "directive.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/errors.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "forms.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "emailApp.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Libsass Build/Sass (libsass).sublime-build",
+	"project": "DuncanAngular.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\ctfp5advsg\\users\\jambe\\Desktop\\sublime-dash.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
