@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"$root",
+				"$rootScope\tAngularJS"
+			],
+			[
 				"signup",
 				"signup_form"
 			],
@@ -368,7 +372,7 @@
 			"file": "directive.html",
 			"settings":
 			{
-				"buffer_size": 323,
+				"buffer_size": 447,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -377,7 +381,7 @@
 			"file": "directive.js",
 			"settings":
 			{
-				"buffer_size": 222,
+				"buffer_size": 485,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -944,7 +948,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -967,7 +971,8 @@
 						"settings":
 						{
 							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 775.0,
@@ -982,27 +987,28 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 323,
+						"buffer_size": 447,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								161,
-								161
+								447,
+								447
 							]
 						],
 						"settings":
 						{
 							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -1011,15 +1017,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 222,
+						"buffer_size": 485,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								218,
-								218
+								163,
+								163
 							]
 						],
 						"settings":
@@ -1031,7 +1037,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1083,7 +1089,8 @@
 						"settings":
 						{
 							"open_with_edit": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

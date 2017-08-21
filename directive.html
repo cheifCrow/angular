@@ -1,7 +1,21 @@
-<html ng-app="myApp">
+<html  ng-app="myApp">
 	<head>
+		<meta charset="UTF-8">
 		<script src="angular.js"></script>
 		<script src="directive.js"></script>
+
+		<style type="text/css">
+			.odd {
+				background-color: blue;
+			}
+
+			.even {
+				background-color: red;
+			}
+			.red {
+				background-color: red;
+			}
+		</style>
 	</head>
 
 	<body>
@@ -14,5 +28,164 @@
 
 		<input type="text" ng-model="someProperty" placeholder="Type to enable">
 		<button ng-model="button" ng-disabled="!someProperty">A Button</button>
+
+		<label testProperty>testProperty = {{testProperty}}</label>
+		<input type="checkbox"
+			ng-checked="testProperty"
+			ng-init="testProperty = true"
+			ng-model="testProperty">
+
+		<label anotherProperty>anotherProperty = {{anotherProperty}}</label>
+		<input type="checkbox"
+			ng-checked="anotherProperty"
+			ng-init="anotherProperty = false"
+			ng-model="anotherProperty">
+		<br>
+
+		<div ng-controller="fishController">
+			<label>Two Fish: {{isTwoFish}}</label><br>
+			<label>Select Two Fish:</label>
+			<input type="checkbox"
+				ng-checked="isTwoFish"
+				ng-model="isTwoFish"><br>
+			<select ng-model="fishSelect" ng-change="fishChange()">
+				<option>One Fish</option>
+				<option ng-selected="isTwoFish">Two Fish</option>
+			</select>
+		</div>
+
+		<!--
+		<div>
+			<a href="{{myHref}}">Bad Link</a>
+			<a ng-href="{{myHref}}">Good Link</a>
+			<h3>Wrong</h3>
+			<img src="{{imgSrc}}"/>
+			<h3>Right</h3>
+			<img ng-src="{{imgSrc}}"/>
+		</div>-->
+
+		<div ng-include
+			src="'templates/sample.html'"
+			ng-controller="MyController"
+			ng-init="name = 'World'">
+			Hello {{name}}
+		</div>
+
+		<input type="text" ng-model="person.name"/>
+		<div ng-switch on="person.name">
+			<p ng-switch-default>Hello</p>
+			<h2 ng-switch-when="Duncan">{{person.name}}</h2>
+		</div>
+
+		<select ng-model="view.select"
+			ng-init="view.select = 'Second'">
+			<option>First</option>
+			<option>Second</option>
+			<option>Third</option>
+		</select>
+
+		<div ng-switch on="view.select">
+			<p ng-switch-when="First">Hi</p>
+			<p ng-switch-when="Second">Hello</p>
+			<p ng-switch-when="Third">Howdy</p>
+		</div>
+
+		<div>
+			<div ng-model="menu.sidebar" style="display: inline-block; vertical-align: middle;
+				border: 1px solid black;">
+				<h3>Sidebar</h3>
+				<ul>
+					<li><a href="#" ng-click="view.window = 0">First option</a></li>
+					<li><a href="#" ng-click="view.window = 1">Second option</a></li>
+					<li><a href="#" ng-click="view.window = 2">Third option</a></li>
+					<li><a href="#" ng-click="view.window = 3">Fourth option</a></li>
+				</ul>
+			</div>
+
+			<div style="display: inline-block; vertical-align: middle;
+				border: 1px solid black;">
+				<h3>Selected Page</h3>
+				<div ng-switch on="view.window" >
+					<div ng-switch-default>
+						<p>Please select an option</p>
+					</div>
+					<div ng-switch-when="0">
+						<div ng-include="'templates/sample.html'"></div>
+					</div>
+					<div ng-switch-when="1">
+						<div ng-include="'forms.html'"></div>
+					</div>
+				</div>
+			</div>
+
+			<ul ng-controller="PeopleController">
+				<li ng-repeat="person in people" ng-class="{even: !$even, odd: !$odd}">
+				{{person.name}} lives in {{person.city}}
+				</li>
+			</ul>
+		</div>
+
+		<form name="signup_form"
+			ng-controller="FormController"
+			ng-submit="submitForm()" novalidate>
+			<div ng-repeat="field in fields"
+				ng-form="signup_form_input">
+				<input type="text"
+					name="dynamic_input"
+					ng-required="field.isRequired"
+					ng-model="field.name"
+					placeholder="{{field.placeholder}}" />
+				<div 
+					ng-show="signup_form_input.dynamic_input.$dirty && signup_form_input.dynamic_input.$invalid">
+					<span class="error"
+						ng-show="signup_form_input.dynamic_input.$error.required">
+						The field is required
+					</span>
+				</div>
+			</div>
+			<button type="submit"
+				ng-disabled="signup_form.$invalid">
+				Submit All
+			</button>
+		</form>
+
+		<div ng-controller="CityController">
+			<select ng-model="city"
+				ng-options="city.name for city in cities">
+				<option value="">Choose City</option>
+			</select>
+			Best City: {{city.name}}
+		</div>
+
+		<form ng-submit="submit()"
+			ng-controller="PeopleFormController">
+			Enter text and hit enter:
+			<input type="text"
+				ng-model="person.name"
+				name="person.name"/>
+			<input type="submit"
+				value="Submit"/>
+			<code>people={{people}}</code>
+			<ul ng-repeat="person in people">
+				<li>{{person.name}}</li>
+			</ul>
+		</form>
+
+		<div ng-controller="LotteryController">
+			<div ng-class="{red: x > 5}"
+				ng-if="x > 5">
+				You won!
+			</div>
+			<button ng-click="x = generateNumber()">
+				Draw a number
+			</button>
+			<p ng-show="x">Number is: {{x}}</p>
+		</div>
+
+		<div my-compile ng-model="compileModel" type="test"></div>
+
+		<div ng-controller="MyController">
+			<p render-directive ng-model="renderModel">{{renderModel}}</p>
+		</div>
 	</body>
 </html>

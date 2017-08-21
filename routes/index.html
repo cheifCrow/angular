@@ -1,0 +1,18 @@
+<html ng-app="routesAndViews">
+	<head>
+		<meta charset="UTF-8">
+		<base href="/routes/" />
+		<script src="angular.js"></script>
+		<script src="angular-route.js"></script>
+		<script src="routesAndViews.js"></script>
+	</head>
+
+	<body>
+		<div ng-controller="MainCtrl as main">
+			<button ng-click="buttonFunction()">Click here</button>
+			<div ng-view></div>
+		</div>
+
+		<pre>$location.path() = {{main.$location.path()}}</pre>
+	</body>
+</html>

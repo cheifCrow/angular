@@ -1,4 +1,4 @@
-var app = angular.module('forms', ['ngMessages'])
+var app = angular.module('forms', ['ngMessages']);
 
 app.controller("signupController", function($scope) {
 	$scope.submitted = false;
@@ -8,7 +8,7 @@ app.controller("signupController", function($scope) {
 		} else {
 			$scope.signup_form.submitted = true;
 		}
-	}
+	};
 });
 
 app.directive('ngFocus', [function() {
@@ -21,7 +21,7 @@ app.directive('ngFocus', [function() {
 			element.bind('focus', function(evt) {
 				element.addClass(FOCUS_CLASS);
 				scope.$apply(function() {
-					ctrl.$focused = true
+					ctrl.$focused = true;
 				});
 			}).bind('blur', function(evt) {
 				element.removeClass(FOCUS_CLASS);
@@ -30,5 +30,5 @@ app.directive('ngFocus', [function() {
 				});
 			});
 		}
-	}
+	};
 }]);
