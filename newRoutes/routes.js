@@ -34,6 +34,10 @@ app.config(['$routeProvider', function($routeProvider) {
 app.controller('HomeController', function($scope, $timeout, githubService) {
 	var timeout;
 
+	$scope.clear = function() {
+		$scope.events = {};
+	};
+
 	$scope.$watch('username', function(newUsername) {
 		if(newUsername) {
 			if (timeout) $timeout.cancel(timeout);
